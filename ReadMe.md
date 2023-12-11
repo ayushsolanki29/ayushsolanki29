@@ -1,3 +1,5 @@
+[![MasterHead]()]()
+<img align="center" alt="Ayush" width="400" style="border-radius:10px" src="https://raw.githubusercontent.com/ayushsolanki29/ayushsolanki29/main/Black%20Technology%20LinkedIn%20Banner.png">
 <h1 align="center">Hi 👋, I'm Ayush Solanki</h1>
 <h3 align="center">A Passionate Web Developer From India</h3>
 
