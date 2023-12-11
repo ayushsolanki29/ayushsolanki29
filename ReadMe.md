@@ -1,5 +1,15 @@
 [![MasterHead](https://raw.githubusercontent.com/ayushsolanki29/ayushsolanki29/main/Black%20Technology%20LinkedIn%20Banner.png)](https://raw.githubusercontent.com/ayushsolanki29/ayushsolanki29/main/Black%20Technology%20LinkedIn%20Banner.png)
+<style>
+  p img {
+    background-color: white;
+  }
 
+  @media (prefers-color-scheme: dark) {
+    p img {
+      background-color: black; /* Set a background color suitable for dark mode */
+    }
+  }
+</style>
 
 <h1 align="center">Hi 👋, I'm Ayush Solanki</h1>
 <h3 align="center">A Passionate Web Developer From India</h3>
