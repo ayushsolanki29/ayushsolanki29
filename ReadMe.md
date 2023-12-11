@@ -1,4 +1,5 @@
-[![MasterHead]([https://github.com/ayushsolanki29](https://raw.githubusercontent.com/ayushsolanki29/ayushsolanki29/main/Black%20Technology%20LinkedIn%20Banner.png))](https://raw.githubusercontent.com/ayushsolanki29/ayushsolanki29/main/Black%20Technology%20LinkedIn%20Banner.png)
+[![MasterHead](https://raw.githubusercontent.com/ayushsolanki29/ayushsolanki29/main/Black%20Technology%20LinkedIn%20Banner.png)](https://raw.githubusercontent.com/ayushsolanki29/ayushsolanki29/main/Black%20Technology%20LinkedIn%20Banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Ayush Solanki</h1>
 <h3 align="center">A Passionate Web Developer From India</h3>
