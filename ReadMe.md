@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsolanki29&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsolanki29" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushsolanki29" alt="ayushsolanki29" /></a> </p>
-
 - 🔭 I’m currently working on [mypoetry.in : A customizable poetry buy, tournament, and collection platform.](https://mypoetry.in/)
 
 - 🌱 I’m currently learning **React JS, Next.js**
