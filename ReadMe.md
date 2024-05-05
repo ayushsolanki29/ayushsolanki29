@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/ayushsolanki29/ayushsolanki29/main/Black%20Technology%20LinkedIn%20Banner.png)](https://raw.githubusercontent.com/ayushsolanki29/ayushsolanki29/main/Black%20Technology%20LinkedIn%20Banner.png)
 
 # 💫 About Me:
-🌱 I’m currently learning React JS, Next.js and MERN stack<br><br>👨‍💻 All of my projects are available at https://github.com/ayushsolanki29/<br><br>💬 Ask me about PHP, JS, jQuery, React, or any other web development basics!<br><br>📫 How to reach me ayushsolanki2901@gmail.com<br><br>🚀 Passionate backend developer here! [Leveraging PHP and Node.js (Express.js) to build scalable web applications, with expertise in databases (MySQL, MongoDB). Let's turn ideas into code magic! ✨](Leveraging PHP and Node.js (Express.js) to build scalable web applications, with expertise in databases (MySQL, MongoDB). Let's turn ideas into code magic! ✨)<br><br>⚡ Fun fact By day, crafting pixels; by night, conquering virtual worlds and diving into film universes. 🎮🎬
+🌱 I’m currently learning React JS, Next.js and MERN stack<br><br>👨‍💻 All of my projects are available at https://github.com/ayushsolanki29/<br><br>💬 Ask me about PHP, JS, jQuery, React, or any other web development basics!<br><br>📫 How to reach me ayushsolanki2901@gmail.com<br><br>🚀 Passionate backend developer here! PHP, Node JS , Next JS ✨)<br><br>⚡ Fun fact By day, crafting pixels; by night, conquering virtual worlds and diving into film universes. 🎮🎬
 
 
 ## 🌐 Socials:
