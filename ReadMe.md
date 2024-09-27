@@ -5,7 +5,7 @@
 
 🌱 I’m continuously learning and expanding my skill set, with a current focus on mastering the MERN stack and modern JavaScript frameworks.
 
-💬 Feel free to ask me about PHP, JavaScript, jQuery, React, or any other web development basics!
+💬 Feel free to ask me about PHP, JavaScript, jQuery, React,Next JS, Typescript or any other web development and backend development!
 
 📫 You can reach me at **ayushsolanki2901@gmail.com**.
 
