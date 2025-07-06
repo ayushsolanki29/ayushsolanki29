@@ -1,4 +1,5 @@
-[![MasterHead]([https://raw.githubusercontent.com/ayushsolanki29/ayushsolanki29/refs/heads/main/Black%20Technology%20LinkedIn%20Banner.png](https://raw.githubusercontent.com/ayushsolanki29/ayushsolanki29/refs/heads/main/Black%20Technology%20LinkedIn%20Banner.png))](https://raw.githubusercontent.com/ayushsolanki29/ayushsolanki29/main/Black%20Technology%20LinkedIn%20Banner.png)
+[![MasterHead]
+![image](banner.png)
 
 # 💫 About Me:
 🚀 I'm a passionate backend developer with over 2 years of freelance experience, having worked with 10+ clients on various projects. I specialize in building scalable applications using technologies such as MERN Stack, PHP, Node.js, and Next.js. You can explore all my projects on my [portfolio](https://ayushsolanki.site).
