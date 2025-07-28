@@ -1,4 +1,4 @@
-[![MasterHead]
+
 ![image](banner.png)
 
 # 💫 About Me:
