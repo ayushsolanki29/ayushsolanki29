@@ -16,28 +16,19 @@ I build backend systems and infrastructure for products businesses actually run 
 
 Currently a **Production Engineer & Full-Stack Engineer** at **Gohil Infotech**, where I own AWS infrastructure and backend for 35+ live applications. Before that, I spent years as a freelance full-stack developer, delivering 20+ projects end-to-end — from the first client call to the server that stays up at 2 AM.
 
-I care more about *why* a system is architected a certain way than about following a tutorial. Most of what I know came from debugging production issues, not from courses.
-
-```
-while (true) {
-  understand_the_problem();
-  ship_the_simplest_solution();
-  measure_real_bottlenecks();
-  improve_architecture_when_it_matters();
-}
-```
+I care more about *why* something is built a certain way than about following a tutorial. Most of what I know came from fixing things in production at 2 AM, not from a course.
 
 <br/>
 
 ## What I'm Building
 
-**[Soseki](https://github.com/ayushsolanki29/soseki)** — an open-source business operating platform.
+**[Soseki](https://github.com/ayushsolanki29/soseki-app)** — an open-source business OS for freelancers, consultants, and small agencies.
 
-Businesses run on a dozen disconnected SaaS tools: CRM here, invoices there, tickets somewhere else. Soseki is a single, modular platform for CRM, projects, forms, tickets, invoicing, and reporting — built to stay extensible instead of turning into another monolith.
+The idea is simple: instead of juggling five different tools for clients, projects, invoices, expenses, and support tickets, you get all of it in one self-hosted place. It handles multi-currency invoicing on its own, and it even has an AI-assisted way to import your old data from QuickBooks, CSVs, or messy spreadsheets so switching over doesn't hurt.
 
-`Next.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Prisma` · `AWS`
+Built with Next.js, Node.js, PostgreSQL, and Prisma — and you own your data, no vendor lock-in.
 
-> Early on I over-engineered it — queues, workers, event systems — before shipping an MVP. That's the lesson that now shapes how I build: **ship the simplest working version, scale what actually needs it.**
+Early on I over-built it — queues, background workers, event systems — before I'd even shipped a working version. That taught me a lesson I still lean on: get something real out the door first, then scale the parts that actually need it.
 
 <br/>
 
@@ -61,10 +52,10 @@ I designed a **queue-based sync architecture** with Node.js, Redis, and BullMQ �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushsolanki29&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6EE7E7&icon_color=6366F1&text_color=E6EDF3" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsolanki29&layout=compact&hide_border=true&bg_color=0D1117&title_color=6EE7E7&text_color=E6EDF3" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayushsolanki29&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7E7&icon_color=818CF8&text_color=C9D1D9&ring_color=6EE7E7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsolanki29&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7E7&text_color=C9D1D9" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=ayushsolanki29&hide_border=true&background=0D1117&ring=6366F1&fire=6EE7E7&currStreakLabel=6EE7E7" height="165"/>
+<img src="https://streak-stats.demolab.com?user=ayushsolanki29&hide_border=true&theme=tokyonight&background=0D1117&ring=6EE7E7&fire=818CF8&currStreakLabel=6EE7E7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165"/>
 
 </div>
 
@@ -74,10 +65,10 @@ I designed a **queue-based sync architecture** with Node.js, Redis, and BullMQ �
 
 <div align="center">
 
-<a href="https://ayushsolanki.site"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=6EE7E7" /></a>
-<a href="https://linkedin.com/in/ayush-solanki-a3909625a"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6EE7E7" /></a>
-<a href="mailto:ayushsolanki2901@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=6EE7E7" /></a>
-<a href="https://x.com/ayushsolanki29"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=6EE7E7" /></a>
+<a href="https://ayushsolanki.site"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ayush-solanki-a3909625a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ayushsolanki2901@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://x.com/ayushsolanki29"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
