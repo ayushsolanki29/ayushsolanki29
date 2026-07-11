@@ -60,7 +60,7 @@ The result was reliable synchronization of more than **10,000 attendance records
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsolanki29&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7E7&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=ayushsolanki29&layout=compact&theme=tokyonight" height="165"/>
 <img src="https://streak-stats.demolab.com?user=ayushsolanki29&hide_border=true&theme=tokyonight&background=0D1117&ring=6EE7E7&fire=818CF8&currStreakLabel=6EE7E7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165"/>
 
 </div>
