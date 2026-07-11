@@ -1,87 +1,84 @@
-<img src="banner.png" alt="Banner" />
+<div align="center">
 
-# Hi there 👋, I'm Ayush Solanki
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B2735&height=210&section=header&text=Ayush%20Solanki&fontSize=48&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=Production%20Engineer%20%C2%B7%20Full-Stack%20Engineer&descAlignY=55&descSize=18&descColor=6EE7E7" width="100%"/>
 
-## 🚀 About Me
+<a href="https://ayushsolanki.site">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=6EE7E7&center=true&vCenter=true&width=600&lines=Managing+35%2B+production+applications;Building+Soseki+%E2%80%94+an+open-source+business+OS;Backend+%2F+Cloud+%2F+System+Design" alt="Typing SVG" />
+</a>
 
-I'm a **Full-Stack & Production Engineer** from Ahmedabad, India, with **4+ years of experience** building production-ready web applications, SaaS products, and backend systems.
+</div>
 
-Currently, I work on managing and scaling **35+ production applications** while also building **Soseki**, an open-source business operating platform designed to simplify how businesses manage their operations.
+<br/>
 
-I enjoy solving engineering problems involving scalability, system architecture, cloud infrastructure, backend development, and developer experience.
+## About Me
 
-### What I'm currently working on
+I build backend systems and infrastructure for products businesses actually run on — not just features that ship and get forgotten.
 
-- 🚀 Building **Soseki** (Open Source Business Operating Platform)
-- ⚙️ Backend Architecture & Distributed Systems
-- ☁️ AWS Infrastructure & Production Engineering
-- 🤖 AI Integrations & Developer Tools
-- 📦 Open Source Projects
+Currently a **Production Engineer & Full-Stack Engineer** at **Gohil Infotech**, where I own AWS infrastructure and backend for 35+ live applications. Before that, I spent years as a freelance full-stack developer, delivering 20+ projects end-to-end — from the first client call to the server that stays up at 2 AM.
 
----
+I care more about *why* a system is architected a certain way than about following a tutorial. Most of what I know came from debugging production issues, not from courses.
 
-## 💼 Experience
+```
+while (true) {
+  understand_the_problem();
+  ship_the_simplest_solution();
+  measure_real_bottlenecks();
+  improve_architecture_when_it_matters();
+}
+```
 
-- **4+ Years** of Full-Stack Development
-- Production Engineer @ **Gohil Infotech**
-- Built **20+ client applications**
-- Managing **35+ live production applications**
-- AWS Infrastructure, Backend APIs & Production Systems
+<br/>
 
----
+## What I'm Building
 
-## 🛠 Tech Stack
+**[Soseki](https://github.com/ayushsolanki29/soseki)** — an open-source business operating platform.
 
-### Languages
+Businesses run on a dozen disconnected SaaS tools: CRM here, invoices there, tickets somewhere else. Soseki is a single, modular platform for CRM, projects, forms, tickets, invoicing, and reporting — built to stay extensible instead of turning into another monolith.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+`Next.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Prisma` · `AWS`
 
-### Frontend
+> Early on I over-engineered it — queues, workers, event systems — before shipping an MVP. That's the lesson that now shapes how I build: **ship the simplest working version, scale what actually needs it.**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+<br/>
 
-### Backend
+## A Problem I'm Proud Of
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge)
+**Biometric Attendance Synchronization** — biometric devices were producing thousands of records a day, and network drops caused duplicates, failed syncs, and missing attendance data.
 
-### Database
+I designed a **queue-based sync architecture** with Node.js, Redis, and BullMQ — chunked processing, idempotent operations, and automatic retries. Result: **10,000+ records synced reliably with zero data loss.**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+<br/>
 
-### Cloud & Infrastructure
+## Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![BullMQ](https://img.shields.io/badge/BullMQ-EA4AAA?style=for-the-badge)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,mysql,mongodb,prisma,redis,aws,linux,nginx,docker,git,figma&theme=dark" />
 
----
+**Currently exploring:** event-driven architecture · distributed systems · platform engineering · AI-integrated tooling
 
-## 🌍 Connect With Me
+<br/>
 
-- 🌐 Portfolio: **https://ayushsolanki.site**
-- 💼 LinkedIn: **https://linkedin.com/in/ayush-solanki-a3909625a**
-- 🐦 X (Twitter): **https://x.com/ayushsolanki29**
-- 📧 Email: **ayushsolanki2901@gmail.com**
+## GitHub Stats
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ayushsolanki29&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6EE7E7&icon_color=6366F1&text_color=E6EDF3" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsolanki29&layout=compact&hide_border=true&bg_color=0D1117&title_color=6EE7E7&text_color=E6EDF3" height="165"/>
 
-<!-- GitHub Readme Stats -->
-<!-- Add your preferred stats cards here -->
+<img src="https://streak-stats.demolab.com?user=ayushsolanki29&hide_border=true&background=0D1117&ring=6366F1&fire=6EE7E7&currStreakLabel=6EE7E7" height="165"/>
 
----
+</div>
 
-> *"I enjoy building products that solve real problems—not just writing code."*
+<br/>
+
+## Connect
+
+<div align="center">
+
+<a href="https://ayushsolanki.site"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=6EE7E7" /></a>
+<a href="https://linkedin.com/in/ayush-solanki-a3909625a"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6EE7E7" /></a>
+<a href="mailto:ayushsolanki2901@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=6EE7E7" /></a>
+<a href="https://x.com/ayushsolanki29"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=6EE7E7" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B2735&height=100&section=footer" width="100%"/>
