@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero-banner.sv" width="100%"/>
+<img src="hero-banner.svg" width="100%"/>
 
 <a href="https://ayushsolanki.site">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=6EE7E7&center=true&vCenter=true&width=600&lines=Managing+35%2B+production+applications;Building+Soseki+an+open+source+business+OS;Backend+Cloud+System+Design" alt="Typing SVG" />
