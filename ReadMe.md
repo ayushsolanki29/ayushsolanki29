@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B2735&height=210&section=header&text=Ayush%20Solanki&fontSize=48&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=Production%20Engineer%20%C2%B7%20Full-Stack%20Engineer&descAlignY=55&descSize=18&descColor=6EE7E7" width="100%"/>
+<img src="assets/hero-banner.svg" width="100%"/>
 
 <a href="https://ayushsolanki.site">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=6EE7E7&center=true&vCenter=true&width=600&lines=Managing+35%2B+production+applications;Building+Soseki+%E2%80%94+an+open-source+business+OS;Backend+%2F+Cloud+%2F+System+Design" alt="Typing SVG" />
@@ -48,13 +48,15 @@ I designed a **queue-based sync architecture** with Node.js, Redis, and BullMQ â
 
 <br/>
 
-## GitHub Stats
+## By the Numbers
+
+<img src="assets/highlights.svg" width="100%"/>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushsolanki29&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7E7&icon_color=818CF8&text_color=C9D1D9&ring_color=6EE7E7" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsolanki29&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7E7&text_color=C9D1D9" height="165"/>
-
 <img src="https://streak-stats.demolab.com?user=ayushsolanki29&hide_border=true&theme=tokyonight&background=0D1117&ring=6EE7E7&fire=818CF8&currStreakLabel=6EE7E7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165"/>
 
 </div>
@@ -72,4 +74,8 @@ I designed a **queue-based sync architecture** with Node.js, Redis, and BullMQ â
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B2735&height=100&section=footer" width="100%"/>
+<br/>
+
+<div align="center">
+<sub>Ahmedabad, India Â· always open to talking systems, infra, and Soseki</sub>
+</div>
