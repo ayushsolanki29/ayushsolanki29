@@ -20,9 +20,9 @@
   <text x="64" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#818CF8">PRODUCTION ENGINEER · FULL-STACK</text>
   <text x="64" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#F3F6FA">Ayush Solanki</text>
   <text x="64" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#9AA5B1">I keep production systems running, and build the platforms</text>
-  <text x="64" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#9AA5B1">behind them — from AWS infra to backend architecture.</text>
+  <text x="64" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#9AA5B1">behind them ~ from AWS infra to backend architecture.</text>
 
-  <text x="64" y="256" font-family="Consolas, Menlo, monospace" font-size="14" fill="#5FE0C0">$ location: Ahmedabad, India</text>
+  <text x="64" y="256" font-family="Consolas, Menlo, monospace" font-size="14" fill="#5FE0C0"> Location: Ahmedabad, India</text>
 
   <!-- right status panel -->
   <g transform="translate(830,52)">
