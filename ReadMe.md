@@ -7,7 +7,11 @@
 </a>
 
 </div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushsolanki29&label=Profile%20Views&color=6EE7E7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ayushsolanki29?style=for-the-badge&color=818CF8&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/ayushsolanki29?affiliations=OWNER&style=for-the-badge&color=FACC15&labelColor=0D1117" />
+</p>
 <br/>
 
 ## About Me
